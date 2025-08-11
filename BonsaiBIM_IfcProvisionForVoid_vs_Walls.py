@@ -1,4 +1,6 @@
-#Get all VirtualElements, find their respective walls and transfer their properties for more advance ifc native PfV-workflows.
+# Get all VirtualElements, find their respective walls and transfer their properties for more advanced ifc native ProvisionForVoid-workflows.
+# WORK-IN-PROGESS. Goal is to transfer from host element the IfcClass, TypeName, LoadBearing, Firerating, Material
+
 import bpy
 
 from mathutils import Vector
